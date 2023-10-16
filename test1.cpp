@@ -5,6 +5,8 @@
 using namespace std;
 
 int main(){
-cout<<"WELCOME TO THR LOGIN PAGE"<<endl;
+cout<<"LOGIN AND REGISTRATION"<<endl;
+
+
    return 0;
 }
