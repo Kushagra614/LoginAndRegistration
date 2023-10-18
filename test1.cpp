@@ -16,9 +16,11 @@ void input(){
    
 
 }
+
+
 int main(){
 cout<<"LOGIN AND REGISTRATION"<<endl;
 input();
-
+cout<<"YOUR ARE NOW REGISTERED"<<endl;
    return 0;
 }
