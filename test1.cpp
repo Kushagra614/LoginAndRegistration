@@ -25,4 +25,4 @@ cout<<"YOUR ARE NOW REGISTERED"<<endl;
    return 0;
 }
 
-//Add file management to this vode
+//Add file management to this code
